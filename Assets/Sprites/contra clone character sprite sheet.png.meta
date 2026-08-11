@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 018f9962146a515428c7c07afa44f1bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7418363230167524903
+    second: contra clone character sprite sheet_0
+  - first:
+      213: 6001868108213558209
+    second: contra clone character sprite sheet_1
+  - first:
+      213: -7669078171133126292
+    second: contra clone character sprite sheet_2
+  - first:
+      213: -3206023341160543159
+    second: contra clone character sprite sheet_3
+  - first:
+      213: 7329722816188375012
+    second: contra clone character sprite sheet_4
+  - first:
+      213: -2295774682679336088
+    second: contra clone character sprite sheet_5
+  - first:
+      213: 1523062323077559772
+    second: contra clone character sprite sheet_6
+  - first:
+      213: -5278375474872449100
+    second: contra clone character sprite sheet_7
+  - first:
+      213: 3205845201539034234
+    second: contra clone character sprite sheet_8
+  - first:
+      213: -4686822894543115892
+    second: contra clone character sprite sheet_9
+  - first:
+      213: 6566048531276828898
+    second: contra clone character sprite sheet_10
+  - first:
+      213: 1388512459154074324
+    second: contra clone character sprite sheet_11
+  - first:
+      213: 468861659593173734
+    second: contra clone character sprite sheet_12
+  - first:
+      213: 4066180022423198600
+    second: contra clone character sprite sheet_13
+  - first:
+      213: 943963914822127558
+    second: contra clone character sprite sheet_14
+  - first:
+      213: 3764522705961169713
+    second: contra clone character sprite sheet_15
+  - first:
+      213: -8513325562693075864
+    second: contra clone character sprite sheet_16
+  - first:
+      213: -1909013004638118694
+    second: contra clone character sprite sheet_17
+  - first:
+      213: -6839020109053877881
+    second: contra clone character sprite sheet_18
+  - first:
+      213: 7816078122492005144
+    second: contra clone character sprite sheet_19
+  - first:
+      213: 7318391205746097742
+    second: contra clone character sprite sheet_20
+  - first:
+      213: -572967414735369936
+    second: contra clone character sprite sheet_21
+  - first:
+      213: 8411627310556952689
+    second: contra clone character sprite sheet_22
+  - first:
+      213: 463460026230697410
+    second: contra clone character sprite sheet_23
+  - first:
+      213: 6634124889857627384
+    second: contra clone character sprite sheet_24
+  - first:
+      213: 6446569191439085791
+    second: contra clone character sprite sheet_25
+  - first:
+      213: -713771240434738710
+    second: contra clone character sprite sheet_26
+  - first:
+      213: 5680684267128917260
+    second: contra clone character sprite sheet_27
+  - first:
+      213: -3294234451652285552
+    second: contra clone character sprite sheet_28
+  - first:
+      213: -4808154349021137652
+    second: contra clone character sprite sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72664fcbd0253f660800000000000000
+      internalID: 7418363230167524903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 191
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb90d2ce3bea4350800000000000000
+      internalID: 6001868108213558209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6958ee2906f19590800000000000000
+      internalID: -7669078171133126292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 191
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cc388e1cae183d0800000000000000
+      internalID: -3206023341160543159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efdbf8111868b560800000000000000
+      internalID: 7329722816188375012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 143
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8632092f615c320e0800000000000000
+      internalID: -2295774682679336088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 143
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5b1d10d11032510800000000000000
+      internalID: 1523062323077559772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 143
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7081db8717fb6b0800000000000000
+      internalID: -5278375474872449100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 143
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cef9ab9337d7c20800000000000000
+      internalID: 3205845201539034234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 143
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89e695c86f05feb0800000000000000
+      internalID: -4686822894543115892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 143
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01bbcc95a4f1b50800000000000000
+      internalID: 6566048531276828898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 112
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da251699bcf44310800000000000000
+      internalID: 1388512459154074324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 113
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eae9dcf13bb18600800000000000000
+      internalID: 468861659593173734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 113
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b1355df29fd6830800000000000000
+      internalID: 4066180022423198600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 111
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf82cfdd22a91d00800000000000000
+      internalID: 943963914822127558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 112
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13335bda4754e3430800000000000000
+      internalID: 3764522705961169713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 112
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c3d6a91879ad980800000000000000
+      internalID: -8513325562693075864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 64
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc91f269c2d185e0800000000000000
+      internalID: -1909013004638118694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781271c027be611a0800000000000000
+      internalID: -6839020109053877881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 63
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b86db14a9487c60800000000000000
+      internalID: 7816078122492005144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eb6d1f606209560800000000000000
+      internalID: 7318391205746097742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 63
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03903d80c296c08f0800000000000000
+      internalID: -572967414735369936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178b8b4e87a1cb470800000000000000
+      internalID: 8411627310556952689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cde217307a8e6600800000000000000
+      internalID: 463460026230697410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f49a8f2075211c50800000000000000
+      internalID: 6634124889857627384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd034b33680d67950800000000000000
+      internalID: 6446569191439085791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae95ffaa6dc2816f0800000000000000
+      internalID: -713771240434738710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d8e5f4e38d5de40800000000000000
+      internalID: 5680684267128917260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b696648378842d0800000000000000
+      internalID: -3294234451652285552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contra clone character sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0578512811064db0800000000000000
+      internalID: -4808154349021137652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      contra clone character sprite sheet_0: 7418363230167524903
+      contra clone character sprite sheet_1: 6001868108213558209
+      contra clone character sprite sheet_10: 6566048531276828898
+      contra clone character sprite sheet_11: 1388512459154074324
+      contra clone character sprite sheet_12: 468861659593173734
+      contra clone character sprite sheet_13: 4066180022423198600
+      contra clone character sprite sheet_14: 943963914822127558
+      contra clone character sprite sheet_15: 3764522705961169713
+      contra clone character sprite sheet_16: -8513325562693075864
+      contra clone character sprite sheet_17: -1909013004638118694
+      contra clone character sprite sheet_18: -6839020109053877881
+      contra clone character sprite sheet_19: 7816078122492005144
+      contra clone character sprite sheet_2: -7669078171133126292
+      contra clone character sprite sheet_20: 7318391205746097742
+      contra clone character sprite sheet_21: -572967414735369936
+      contra clone character sprite sheet_22: 8411627310556952689
+      contra clone character sprite sheet_23: 463460026230697410
+      contra clone character sprite sheet_24: 6634124889857627384
+      contra clone character sprite sheet_25: 6446569191439085791
+      contra clone character sprite sheet_26: -713771240434738710
+      contra clone character sprite sheet_27: 5680684267128917260
+      contra clone character sprite sheet_28: -3294234451652285552
+      contra clone character sprite sheet_29: -4808154349021137652
+      contra clone character sprite sheet_3: -3206023341160543159
+      contra clone character sprite sheet_4: 7329722816188375012
+      contra clone character sprite sheet_5: -2295774682679336088
+      contra clone character sprite sheet_6: 1523062323077559772
+      contra clone character sprite sheet_7: -5278375474872449100
+      contra clone character sprite sheet_8: 3205845201539034234
+      contra clone character sprite sheet_9: -4686822894543115892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
